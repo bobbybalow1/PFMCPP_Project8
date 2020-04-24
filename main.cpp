@@ -29,6 +29,7 @@ your task:
 
     5) Add a Truck type
         semi-trucks don't evade when they're pulled over, unlike cars and motorcycles.  
+        They'll also need a member function that can be called when they are added to the highway.  Look at the Highway member functions for more hints on this.
 
     6) Add some Cars to the Highway
     7) Add some Motorcycles to the Highway
